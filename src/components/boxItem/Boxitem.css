@@ -1,0 +1,26 @@
+.centBtn {
+    position: absolute !important;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    width: 50%;
+    border-radius: 20px !important;
+}
+
+.btnc {
+    position: relative
+}
+
+.padd {
+    padding: 2rem !important;
+}
+
+.margtitle {
+    margin: 1rem
+}
+.boxBorder {
+    margin: 1rem;
+    border: 1px solid #dcd6d6;
+}

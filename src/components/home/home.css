@@ -1,0 +1,17 @@
+.breadcrumbSection{
+    margin: .5rem;
+}
+.breadcrumb a{
+    color: #797979 !important;
+    text-decoration: none !important;
+}
+
+.breadcrumbSection a:hover {
+    color: #797979 !important;
+    text-decoration: none !important;
+}
+.historySection{
+    text-align: left;
+    margin: .5rem;
+    height: 100vh;
+}
